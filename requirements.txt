@@ -1,0 +1,12 @@
+langchain-mcp-adapters
+langchain-ollama
+langchain
+pytest
+mcp
+faiss-cpu~=1.13.0
+langchain-text-splitters~=1.0.0
+sentence-transformers~=5.1.2
+langchain-community~=0.4.1
+python-dotenv~=1.2.1
+pdfminer.six
+pytest-asyncio
